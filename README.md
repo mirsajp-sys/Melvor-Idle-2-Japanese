@@ -35,9 +35,10 @@ GitHubの「Releases」から、以下の日本語化パッチをダウンロー
 解凍すると、次の構成になっています。
 
 ```text
-override.cfg
-Locale/
-    ja.po
+📁 Melvor-Idle-2-Japanese-v0.11.6-alpha.1-fixed
+├── override.cfg
+└── 📁 Locale
+    └── ja.po
 ```
 
 ### ② ゲームのインストールフォルダを開く
@@ -62,6 +63,13 @@ C:\Program Files (x86)\Steam\steamapps\common\Melvor Idle 2
 
 - `override.cfg`
 - `Locale` フォルダ（中に `ja.po` が入っています）
+
+```text
+📁 Melvor Idle 2
+├── override.cfg
+└── 📁 Locale
+    └── ja.po
+```
 
 すでに同名のファイルが存在する場合は、上書き前にバックアップを取ってください。
 
