@@ -22,7 +22,7 @@ Melvor Idle 2 v0.11.6-alpha.1
 
 GitHubの「Releases」から、以下の日本語化パッチをダウンロードしてください。
 
-**Melvor-Idle-2-Japanese-v0.11.6-alpha.1-fixed.zip**
+**Melvor-Idle-2-Japanese.zip**
 
 ※「Source code (zip)」ではなく、上記のZIPファイルをダウンロードしてください。
 
