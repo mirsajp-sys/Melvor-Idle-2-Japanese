@@ -35,7 +35,7 @@ GitHubの「Releases」から、以下の日本語化パッチをダウンロー
 解凍すると、次の構成になっています。
 
 ```text
-📁 Melvor-Idle-2-Japanese-v0.11.6-alpha.1-fixed
+📁 Melvor-Idle-2-Japanese
 ├── override.cfg
 └── 📁 Locale
     └── ja.po
